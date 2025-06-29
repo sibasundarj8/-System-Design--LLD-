@@ -3,22 +3,22 @@ import RobotSimulation.Strategies.*;
 
 public class Client {
     public static void main(String[] args) {
-        Robot companion = new CompanionRobot(
-                new MoveByLeg(),
-                new NormalTalk(),
-                new NoFly());
+        Robot companion = new CompanionRobot(            // Injecting strategies with requirements by constructor injection.
+                new MoveByLeg(),      // moving strategy 
+                new NormalTalk(),     // talking strategy
+                new NoFly());         // flying strategy 
         Robot worker = new WorkerRobot(
-                new MoveByWheel(),
-                new NoTalk(),
-                new NoFly());
+                new MoveByWheel(),    // moving strategy 
+                new NoTalk(),         // talking strategy
+                new NoFly());         // flying strategy 
         Robot parrot = new ParrotRobot(
-                new MoveByLeg(),
-                new NormalTalk(),
-                new FlyByWings());
+                new MoveByLeg(),      // moving strategy
+                new NormalTalk(),     // talking strategy
+                new FlyByWings());    // flying strategy 
         Robot crow = new CrowRobot(
-                new MoveByLeg(),
-                new NoTalk(),
-                new FlyByWings());
+                new MoveByLeg(),      // moving strategy 
+                new NoTalk(),         // talking strategy
+                new FlyByWings());    // flying strategy 
 
         companion.projection();
         worker.projection();
