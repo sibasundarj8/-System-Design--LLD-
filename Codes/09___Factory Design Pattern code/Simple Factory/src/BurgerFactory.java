@@ -1,5 +1,3 @@
-package Factory;
-
 import Product.BasicBurger;
 import Product.Burger;
 import Product.PremiumBurger;
