@@ -1,0 +1,36 @@
+▶️ [Bluetooth] playing music: Lag Ja Gale Se Phir
+⏸️ [Bluetooth] pausing music: Lag Ja Gale Se Phir
+
+><--------SEQUENCE--------><
+▶️ [Headphone] playing music: Abhi Na Jao Chhod Kar
+▶️ [Headphone] playing music: Itna Na Mujhse Tu Pyar Badha
+▶️ [Headphone] playing music: Kaun Tujhe
+▶️ [Headphone] playing music: Lag Ja Gale Se Phir
+▶️ [Headphone] playing music: Ek Din Aap
+Playlist completed: Old is Gold
+
+
+><---------RANDOM---------><
+▶️ [Headphone] playing music: Garmi
+▶️ [Headphone] playing music: Lat Lag Gayee
+▶️ [Headphone] playing music: Choli Ke Peeche
+▶️ [Headphone] playing music: Aashiqui Mein Teri
+▶️ [Headphone] playing music: Aaj ki Raat
+▶️ [Headphone] playing music: Laila Main Laila
+Playlist completed: Dance Songs
+
+
+><---------CUSTOM---------><
+▶️ [Headphone] playing music: Lag Ja Gale Se Phir
+▶️ [Headphone] playing music: Ek Din Aap
+▶️ [Headphone] playing music: Itna Na Mujhse Tu Pyar Badha
+▶️ [Headphone] playing music: Kaun Tujhe
+▶️ [Headphone] playing music: Lag Ja Gale Se Phir
+▶️ [Headphone] playing music: Ek Din Aap
+Playlist completed: Old is Gold
+
+Completed playlist: Old is Gold
+▶️ [Headphone] playing music: Ek Din Aap
+⏸️ [Headphone] pausing music: Ek Din Aap
+▶️ [Headphone] playing music: Lag Ja Gale Se Phir
+⏸️ [Headphone] pausing music: Lag Ja Gale Se Phir
