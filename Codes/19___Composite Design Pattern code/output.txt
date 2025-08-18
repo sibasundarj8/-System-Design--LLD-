@@ -1,0 +1,14 @@
+◿ root
+    ◿ Photos
+        Sanjulata.png
+        Manoranjan.png
+        Sibasundar.png
+    ◿ Music
+        ◿ sad_songs
+            Sanso_ki_mala.mp3
+            Dillagi.mp3
+        ◿ item_songs
+            Dilber.mp3
+            Aaj_ki_raat.mp3
+7.6
+⚠️ [File/Folder] already exist with name: Photos ⚠️
