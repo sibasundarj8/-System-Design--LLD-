@@ -1,0 +1,16 @@
+---------virtual-proxy---------
+[Real Image]: Loading...
+[Real Image]: {sibasundar.jpg}
+[Real Image]: {sibasundar.jpg}
+
+
+--------protection-proxy-------
+[PDF]: password protected !!
+[PDF]: it is a secret message
+
+
+----------remote-proxy---------
+[ProxyDataServer]: Connecting to server...
+[RealDataServer]: Data from server...
+
+
