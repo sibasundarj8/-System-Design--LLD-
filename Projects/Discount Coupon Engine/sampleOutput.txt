@@ -1,0 +1,9 @@
+Original cart Total: ₹81380.00
+Applicable Coupons: 
+Seasonal offer 18% off on Clothing
+Loyalty discount 2% off
+BOI Bank Rs 5% off upto 2000
+Seasonal offer 18% off on Clothing applied: 352.01/-
+Loyalty discount 2% off applied: 1620.56/-
+BOI Bank Rs 5% off upto 2000 applied: 2000.00/-
+Total amount after applying coupons: ₹77407.43
